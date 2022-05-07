@@ -1,0 +1,17 @@
+{
+  "name": "sfth-sbamn-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Mahbubi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.7.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
